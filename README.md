@@ -6,4 +6,4 @@
 ## Github status
 
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saasan)
-![github stats](https://github-readme-stats.vercel.app/api?username=saasan)
+![github stats](https://github-readme-stats.vercel.app/api?username=saasan&show_icons=true&line_height=40)
